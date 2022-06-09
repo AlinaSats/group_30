@@ -4,3 +4,6 @@ text 3
 image 4
 text 4
 
+rest 5
+rest 6
+rect 7
